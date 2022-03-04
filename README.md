@@ -8,7 +8,7 @@ Desde criança sempre gostei de computador e na minha adolescência despertei a 
 
 
 ### Chama!!!
-- [Site](https://juniormartins.dev)
+- [Meu site](https://juniormartins.dev)
 - [Twitter](https://twitter.com/juniormartinxo)
 - [Instagram](https://www.instagram.com/juniormartinxo/)
 - [Linkedin](https://www.linkedin.com/in/juniormartinxo/)
