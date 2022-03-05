@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![juniormartinxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormartinxo&show_icons=true&theme=noctis_minimus&count_private=true)](https://github.com/juniormartinxo/github-readme-stats&show_icons=true&theme=noctis_minimus&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormartinxo&theme=noctis_minimus&langs_count=6&layout=compact)](https://github.com/juniormartinxo/github-readme-stats&theme=noctis_minimus&langs_count=6&layout=compact)
