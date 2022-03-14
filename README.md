@@ -1,6 +1,6 @@
 ### Olá!👋
 
-Eu sou o Junior Martins, desenvolvedor fullstack, atualmente cursando Engenharia da Computação, mas também sou Javascripteiro, Reacteiro, adoro comer Typescript com molho de Jest e angu e palpiteiro por natureza.
+Eu sou o Junior Martins, desenvolvedor, atualmente cursando Engenharia da Computação. Sou Javascripteiro, Reacteiro, Remixeiro e adoro comer Typescript com angu ao de molho de Jest e angu e palpiteiro por natureza.
 
 ### 😄 Minha vida de computeiro:
 
