@@ -1,11 +1,12 @@
-### Olá!👋
+# Olá! 👋
 
-Eu sou o Junior Martins, desenvolvedor, atualmente cursando Engenharia da Computação. Sou Javascripteiro, Reacteiro, Remixeiro e adoro comer Typescript com angu ao de molho de Jest e angu e palpiteiro por natureza.
+Meu nome é Junior Martins e sou um desenvolvedor com experiência em JavaScript/ TypeScript (React/ Next/ Remix | NestJS/ Express) e PHP (Laravel). Atualmente, estou cursando Engenharia da Computação. Sou autodidata, gosto de enfrentar desafios e trabalhar em equipe.
 
-### 😄 Minha vida de computeiro:
+### 😄 Minha trajetória como autodidata:
+Desde criança, sempre tive paixão por computadores e o sonho de me tornar um programador. No entanto, na época, o acesso a recursos financeiros era limitado. Foi somente após casar-me que consegui comprar meu primeiro computador, mesmo tendo que vender meu carro para isso. Com muita dedicação e economia, obtive acesso à internet e comecei a aprender DELPHI por conta própria, utilizando tutoriais e apostilas disponíveis na época.
 
-Desde criança sempre gostei de computador e na minha adolescência despertei a vontade de me tornar programador, no entanto não tinha oportunidade ($$$), pois na época o acesso era para poucos devido ao preço. Consegui comprar meu primeiro computador depois que me casei, mas para isso tive que vender o meu carro. Bem, na verdade eu troquei meu Escort 1985 por um PC usado e mais seis meses de marmitex e com a troca e a "economia" da comida que eu pude fazer, eu paguei 12 (doze) meses de internet 256Kbp/s (a mais rápida da época) e finalmente comecei a aprender DELPHI através de tutoriais e apostilas disponíveis na época.
-
+### 💪 Gosto de desafios e trabalho em equipe:
+Sou movido por desafios e acredito que enfrentar problemas complexos é uma oportunidade de crescimento. Tenho facilidade em trabalhar em equipe, colaborando com colegas, compartilhando ideias e contribuindo para o sucesso do projeto. Acredito que a sinergia e cooperação entre os membros da equipe são fundamentais para alcançar resultados excepcionais. 😊
 
 ### Chama!!!
 - [Meu site](https://juniormartins.dev)
