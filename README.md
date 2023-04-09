@@ -1,11 +1,11 @@
 # Olá! 👋
 
-Meu nome é Junior Martins e sou um desenvolvedor Fullstack formado em Administração. com experiência em JavaScript/ TypeScript (React | NestJS/ Express), PHP (Laravel) e MySQL. Atualmente, estou cursando Engenharia da Computação. Sou autodidata, gosto de enfrentar desafios e trabalhar em equipe.
+Meu nome é Junior Martins e sou desenvolvedor Fullstack formado em Administração com experiência em JavaScript/ TypeScript (React | NestJS/ Express), PHP (Laravel) e MySQL. Atualmente, estou cursando Engenharia da Computação. Sou autodidata, gosto de enfrentar desafios e trabalhar em equipe.
 
-😄 Minha trajetória como autodidata:
-Desde criança, sempre tive paixão por computadores e o sonho de me tornar um programador. No entanto, na época, o acesso a recursos financeiros era limitado. Foi somente após casar-me que consegui comprar meu primeiro computador, mesmo tendo que vender meu carro para isso. Com muita dedicação e economia, obtive acesso à internet e comecei a aprender DELPHI por conta própria, utilizando tutoriais e apostilas disponíveis na época.
+### 😄 Minha trajetória como autodidata:
+Desde criança, sempre tive paixão por computadores e o sonho de me tornar um programador, mas como o acesso a recursos financeiros era limitado tiver que vender meu carro e comprar meu primeiro computador. Com muita dedicação e economia, obtive acesso à internet e comecei a aprender DELPHI por conta própria, utilizando tutoriais e apostilas disponíveis na época.
 
-💪 Gosto de desafios e trabalho em equipe:
+### 💪 Gosto de desafios e trabalho em equipe:
 Sou movido por desafios e acredito que enfrentar problemas complexos é uma oportunidade de crescimento. Tenho facilidade em trabalhar em equipe, colaborando com colegas, compartilhando ideias e contribuindo para o sucesso do projeto. Acredito que a sinergia e cooperação entre os membros da equipe são fundamentais para alcançar resultados excepcionais. 😊
 
 ### Chama!!!
