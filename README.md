@@ -38,8 +38,7 @@ Desenvolvedor Fullstack com formação em Administração, especializado em arqu
 </div>
 
 ## Contato 📫
-- LinkedIn: [Junior Martins]([link](https://www.linkedin.com/in/juniormartinxo/))
-- Email: amjr.box@gmail.com
+- LinkedIn: [Junior Martins](https://www.linkedin.com/in/juniormartinxo/)
 - Portfolio: [juniormartins.dev](https://www.juniormartins.dev)
 
 ---
