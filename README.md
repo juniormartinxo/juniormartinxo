@@ -1,33 +1,47 @@
-# Olá! 👋
+# Junior Martins 👨‍💻
 
-Meu nome é Junior Martins e sou desenvolvedor Fullstack formado em Administração com experiência em JavaScript/ TypeScript (React | NextsJS | NestJS | Express), MongoDB, PostgreSQL e MySQL.
+## Sobre mim
+Desenvolvedor Fullstack com formação em Administração, especializado em arquiteturas modernas de aplicações web. Possuo sólida experiência com TypeScript e seu ecossistema, focando em soluções escaláveis e de alta performance.
 
+## Tecnologias e Ferramentas 🚀
 
-![Metrics](https://metrics.lecoq.io/juniormartinxo?template=classic&isocalendar=1&languages=1&repositories=1&gists=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FSao_Paulo)
+### Frontend
+- React | Next.js
+- TypeScript
+- React Query
+- React Hook Form
+- TailwindCSS
 
-<!--
-**juniormartinxo/juniormartinxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
+- Node.js | NestJS | Express
+- TypeScript
+- Prisma ORM
+- Swagger/OpenAPI
+- BullMQ
 
-Here are some ideas to get you started:
+### Banco de Dados
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### DevOps & Ferramentas
+- Docker | Docker Compose
+- Git | GitHub
+- WSL
+- WebStorm | VSCode
 
+## Estatísticas GitHub 📊
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniormartinxo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniormartinxo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-|   Github Status   |  Most Used Languages  |
-|     :---:      |     :---:      |
-|  [![juniormartinxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniormartinxo&show_icons=true&theme=noctis_minimus&count_private=true)](https://github.com/juniormartinxo/github-readme-stats&show_icons=true&theme=noctis_minimus&count_private=true)  |   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormartinxo&theme=noctis_minimus&langs_count=6&layout=compact)](https://github.com/juniormartinxo/github-readme-stats&theme=noctis_minimus&langs_count=6&layout=compact)  |
--->
+## Contato 📫
+- LinkedIn: [Junior Martins]([link](https://www.linkedin.com/in/juniormartinxo/))
+- Email: amjr.box@gmail.com
+- Portfolio: [juniormartins.dev](https://www.juniormartins.dev)
 
+---
 
-
-
-
-
-
+⭐️ From [juniormartinxo](https://github.com/juniormartinxo)
