@@ -29,7 +29,7 @@ Desenvolvedor Fullstack com formação em Administração, especializado em arqu
 - Docker | Docker Compose
 - Git | GitHub
 - WSL
-- WebStorm | VSCode
+- Cursor
 
 ## Estatísticas GitHub 📊
 <div align="center">  
